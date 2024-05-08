@@ -39,8 +39,8 @@ STEP 6:Splitting the data into test and train<BR>
 ##  PROGRAM:
 ```python
 # Importing Libraries
-#NAME:VIGNESH KUMARAN N S
-#REGISTER NO:212222230171
+#NAME:JOEL P
+#REGISTER NO:212222230057
 import pandas as pd                                                 
 import io
 from sklearn.preprocessing import StandardScaler
